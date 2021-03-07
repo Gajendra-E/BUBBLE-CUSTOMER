@@ -18,7 +18,7 @@ import Profile from './Profile';
 import SidebarNav from './SidebarNav';
 
 //gaja
-
+//welcome
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 
